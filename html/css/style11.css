@@ -1,0 +1,111 @@
+nav li
+{	
+	float: left;
+	display: inline;
+	padding-bottom: 1em;
+}
+
+body
+{
+	background-color: #e3e3e3;
+	font-family: sans-serif;
+	
+
+}
+h2 {
+	font-size: 25px;
+	line-height: 29px;
+	letter-spacing: -1px;
+	
+}
+h3,h4{
+	text-align: center;
+	 font-style: italic;
+
+
+}
+
+h3{
+	color: purple;
+}
+
+ img{
+ 
+
+	width: 315px;
+	height:200px;
+
+}
+.continue img
+{
+ margin-top: 60px;
+ width: 960px;
+ height: 500px;
+ margin-bottom:10px; 
+ 
+
+}
+ul a:hover{
+	text-decoration: underline;
+	color: black;
+
+}
+header{
+	position: fixed;
+	width: 960px;
+	background: gray;
+	text-shadow: white;
+	height: 50px;
+
+
+
+}
+
+ul a{
+	font-style: italic;
+	font-size: 20px;
+	font-family: sans-serif;
+	text-decoration: none;
+	padding: 1em;
+}
+.meta p{
+  
+    padding: 1em;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-variant-caps: petite-caps;
+   font-weight: bold;
+    font-style: italic;
+
+    
+}
+h4{
+	font-style: italic;
+
+}
+
+footer{
+	 overflow: hidden;
+	 clear: both;
+	 background: gray;
+	 height: 30px;
+
+
+}
+footer img{
+
+	float: right;
+	width:25px;
+	height:40px;
+}
+
+article p{
+	font-style: italic;
+	 font-weight: bold;
+	 text-shadow: white;
+
+}
+p .omega {
+  margin-right: 0;
+}
